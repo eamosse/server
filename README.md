@@ -23,3 +23,11 @@ git clone https://github.com/eamosse/server.git
 > node install method-override
 > node install mongodb
 ```
+- Lancer le script permettant de récupérer les données de DBPedia (il faut que MongoDb soit lancé)
+```
+pythdon dbpedia_query.py
+```
+- Lancer le serveur (il sera disponible sur le port 5000)
+```
+node index.js 
+```
