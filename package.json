@@ -1,0 +1,36 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Un service exposant des ressources géographiques d'Haiti obtenues à partir de DBpedia ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamosse/server.git"
+  },
+  "keywords": [
+    "haiti",
+    "geography",
+    "ressources",
+    "solutions",
+    "atelier"
+  ],
+  "author": "SOLUTIONS S.A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eamosse/server/issues"
+  },
+  "homepage": "https://github.com/eamosse/server#readme"
+}
