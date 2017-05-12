@@ -7,7 +7,6 @@ Created on Tue Jan 19 12:44:37 2016
 from bson.objectid import ObjectId
 import pymongo
 from pymongo import MongoClient
-from helper import NltkHelper
 
 db = None
 index = 0
