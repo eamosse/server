@@ -1,6 +1,6 @@
 {
   "name": "server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Un service exposant des ressources géographiques d'Haiti obtenues à partir de DBpedia ",
   "main": "index.js",
   "directories": {
